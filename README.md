@@ -1,0 +1,2 @@
+# tensorflow_practises_MNIST
+卷及神经网络判定mnist数字的训练程序
